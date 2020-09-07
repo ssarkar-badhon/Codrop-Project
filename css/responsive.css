@@ -1,0 +1,150 @@
+@media (max-width:1399px){
+
+  .heading-one p {
+    padding-right: 0;
+}
+ .heading-one a{
+   margin-top: 20px;
+ }
+  p {
+      line-height: 1.5;
+  }
+
+  .about-section .heading-one h1{
+    font-size: 25px;
+  }
+
+
+      .explore-section{
+        background-size: 700px;
+      }
+
+      .price-section ul li{
+        font-size: 20px;
+      }
+
+      .card-tittle .number{
+        font-size: 50px;
+      }
+      .price-section a{
+        padding: 20px 40px;
+      }
+}
+@media (max-width: 1199px) {
+    header {
+      background-size: 550px; }
+
+
+    .banner-section .heading {
+      font-size: 45px; }
+    .banner-section p {
+      font-size: 20px; } 
+
+
+      .about-section .heading-one p {
+        padding-right: 30px;
+    }
+   
+      .price-section ul li{
+        font-size: 18px;
+      }
+      .card-tittle .number{
+        font-size: 40px;
+      }
+      .card-head h2{
+        font-size: 20px;
+      }
+      .price-section a{
+          font-size: 16px;
+        padding: 15px 30px;
+      }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    }
+  @media (max-width: 991px) {
+    header {
+      background-size: 500px; }
+  
+    .banner-section {
+      padding-top: 70px;
+      padding-bottom: 70px; }
+      .banner-section .col-md-8 {
+        padding: 0; }
+        .banner-section .col-md-8 .heading {
+          font-size: 40px; }
+        .banner-section .col-md-8 p {
+          font-size: 18px; }
+        .banner-section .col-md-8 .btn-bg {
+          padding: 10px 20px;
+          font-size: 18px; }
+        .banner-section .col-md-8 .btn-transparent {
+          padding: 10px 20px;
+          font-size: 18px; }
+  
+    .partner-section div {
+      padding: 0; } }
+  @media (max-width: 767px) {
+    .navbar .navbar-nav {
+      padding-left: 20px; }
+  
+    header {
+      background-image: url(); }
+  
+    .banner-section {
+      text-align: center; }
+      .banner-section .col-md-8 p {
+        padding: 20px 0;
+        font-size: 17px; }
+      .banner-section .col-md-8 .title1 {
+        max-width: 500px;
+        margin: auto; }
+  
+    .partner-section div {
+      padding: 0; } }
+  @media (max-width: 575px) {
+    .banner-section {
+      padding-top: 50px;
+      padding-bottom: 50px; }
+      .banner-section .col-md-8 {
+        padding: 0 10px; }
+        .banner-section .col-md-8 .title1 {
+          max-width: 450px;
+          margin: auto; }
+        .banner-section .col-md-8 .heading {
+          font-size: 35px; }
+        .banner-section .col-md-8 p {
+          font-size: 15px; }
+        .banner-section .col-md-8 .btn-bg {
+          padding: 9px 18px;
+          font-size: 15px;
+          display: block;
+          margin: auto; }
+        .banner-section .col-md-8 .btn-transparent {
+          padding: 9px 18px;
+          font-size: 15px;
+          display: block;
+          margin: 20px auto; }
+  
+    .partner-section div {
+      padding: 0 10px; } }
+  @media (max-width: 480px) {
+    .banner-section .col-md-8 .title1 {
+      max-width: 450px;
+      margin: auto;
+      padding: 10px 0; }
+    .banner-section .col-md-8 .heading {
+      font-size: 28px !important; }
+      .banner-section .col-md-8 .heading br {
+        display: none; }
+      .banner-section .col-md-8 .heading p {
+        font-size: 14px; } }
+  
+  /*# sourceMappingURL=style.css.map */
+  
